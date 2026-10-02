@@ -1,5 +1,19 @@
 {
   "apiVersion": 1,
-  "updated": "2025-01-01",
-  "plugins": []
+  "updated": "2026-10-02",
+  "plugins": [
+    {
+      "id": "hello-plugin",
+      "name": "Hello Plugin",
+      "version": "1.0",
+      "description": "First marketplace test plugin",
+      "author": "KISSWORLD-GIT",
+      "category": "Tools",
+      "downloadUrl": "https://github.com/KISSWORLD-GIT/unicenta-plugins/releases/download/v1.0/hello-plugin-1.0.jar",
+      "sha256": "5848f3bdaabaa42f0e8ca97861d9fb1ad1f42e3e8695eeed5da32053fe9be320",
+      "sizeBytes": 1813,
+      "minUnicentaVersion": "5.0",
+      "releaseDate": "2026-10-02"
+    }
+  ]
 }
